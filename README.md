@@ -1,6 +1,6 @@
 ## I'm Akhmad Afnan F👋
 
-![Akhmad Afnan F](img\github-header-image.png)
+![akhmadafnan](img\github-header-image.png)
 
 - 🔭 I’m currently working on @gotech.id
 - 🌱 I’m currently learning Laravel Frameworks
